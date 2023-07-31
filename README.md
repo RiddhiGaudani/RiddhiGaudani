@@ -5,11 +5,10 @@
 
 Here are some ideas to get you started:
 
-<img align = "center" alt="laptop"  width="500" height="400"src="https://iconscout.com/illustration/checklist-on-laptop-2557429">
 <h1 align="center">Hi 👋, I'm Riddhi Gaudani</h1>
 <h3 align="center">A passionate programmer and Consistent Learner</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=riddhigaudani&label=Profile%20views&color=0e75b6&style=flat" alt="riddhigaudani" /> </p>
+<p align="left"> <img width="500" height="400" align="right" src="https://komarev.com/ghpvc/?username=riddhigaudani&label=Profile%20views&color=0e75b6&style=flat" alt="riddhigaudani" /> </p>
 
 - 🌱 I’m currently learning **javaScript and looking further to make career in it.**
 

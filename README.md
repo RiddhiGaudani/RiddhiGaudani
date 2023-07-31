@@ -1,14 +1,7 @@
-
-
-
-
-
-Here are some ideas to get you started:
-
 <h1 align="center">Hi 👋, I'm Riddhi Gaudani</h1>
 <h3 align="center">A passionate programmer and Consistent Learner</h3>
 
-<p align="left"> <img width="500" height="400" align="right" src="https://komarev.com/ghpvc/?username=riddhigaudani&label=Profile%20views&color=0e75b6&style=flat" alt="riddhigaudani" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=riddhigaudani&label=Profile%20views&color=0e75b6&style=flat" alt="riddhigaudani" /> </p>
 
 - 🌱 I’m currently learning **javaScript and looking further to make career in it.**
 
@@ -19,11 +12,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me **riddhigau111@gmail.com**
 
 - 📄 I have created a Project in Python Django [which was related to Project Management System in Company in team](which was related to Project Management System in Company in team)
-<img src="https://www.creativeitinstitute.com/images/course/course_1663052056.jpg" width="500" height="400" >
-- ⚡ I am Good at **I am a really Quick Learner and Good at Grabing Opportunities**
+
+- ⚡  I am a really Quick Learner and Good at Grabing Opportunities
 
 <h3 align="left">Connect with me:</h3>
-<img align="right" width="400" alt="coding" src="https://iconscout.com/lottie/female-web-developer-7362399">
+
 <p align="left">
 <a href="https://linkedin.com/in/riddhi gaudani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="riddhi gaudani" height="30" width="40" /></a>
 </p>
@@ -33,9 +26,4 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=riddhigaudani&show_icons=true&locale=en&layout=compact" alt="riddhigaudani" /></p>
 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 

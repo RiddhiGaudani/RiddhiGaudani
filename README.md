@@ -5,8 +5,9 @@
 
 Here are some ideas to get you started:
 
+<img align = "center" alt="laptop"  width="500" height="400"src="https://iconscout.com/illustration/checklist-on-laptop-2557429">
 <h1 align="center">Hi 👋, I'm Riddhi Gaudani</h1>
-<h3 align="center">A passionate programmer from India</h3>
+<h3 align="center">A passionate programmer and Consistent Learner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riddhigaudani&label=Profile%20views&color=0e75b6&style=flat" alt="riddhigaudani" /> </p>
 
@@ -19,11 +20,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me **riddhigau111@gmail.com**
 
 - 📄 I have created a Project in Python Django [which was related to Project Management System in Company in team](which was related to Project Management System in Company in team)
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+<img src="https://www.creativeitinstitute.com/images/course/course_1663052056.jpg" width="500" height="400" >
 - ⚡ I am Good at **I am a really Quick Learner and Good at Grabing Opportunities**
 
 <h3 align="left">Connect with me:</h3>
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO_DiG4xAUqU0OrwJqu1Py4Tk3n2UUCtTN9Q&usqp=CAU">
+<img align="right" width="400" alt="coding" src="https://iconscout.com/lottie/female-web-developer-7362399">
 <p align="left">
 <a href="https://linkedin.com/in/riddhi gaudani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="riddhi gaudani" height="30" width="40" /></a>
 </p>
@@ -33,7 +34,6 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=riddhigaudani&show_icons=true&locale=en&layout=compact" alt="riddhigaudani" /></p>
 
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...

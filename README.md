@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [this Github Account](this Github Account)
 
-- 💬 Ask me about **Java,Python ,HTML,CSS**
+- 💬 Ask me about **Java,Python,C,C++ ,HTML,CSS**
 
 - 📫 How to reach me **riddhigau111@gmail.com**
 

@@ -11,9 +11,9 @@
 
 - 📫 How to reach me **riddhigau111@gmail.com**
 
-- 📄 I have created a Project in Python Django [which was related to Project Management System in Company in team](which was related to Project Management System in Company in team)
+- 📄 I have created a Project in Python with Django framework  with my team   which was related to Project Management System in Company 
 
-- ⚡  I am a really Quick Learner and Good at Grabing Opportunities
+- ⚡  I am a  Quick Learner and Good at Grabing Opportunities
 
 <h3 align="left">Connect with me:</h3>
 
